@@ -1,3 +1,4 @@
+#Lots of this code is from "Stuart Langridge", his blog "As days pass by"
 from gi.repository import WebKit, Gtk, Gdk, Gio, GLib
 import signal, os
 
